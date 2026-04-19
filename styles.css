@@ -2,16 +2,26 @@ html {
      margin: 0px;
     padding: 0px;
 }
+.home-page {
+    background-image: url(designassets/homebackground.jpg);
+    background-size: auto;
+}
 nav {
     display: flex;
     justify-content: space-evenly;
     align-content: flex-start;
 }
 header {
-    background-color: #73462B;
+    background-color: #73472bD9;
 }
 footer {
-    background-color: #5A8E3C;
+    background-color: #5a8e3cD9;
     display: flex;
     justify-content: space-evenly;
+}
+
+.homeimagesbox {
+  display: flex;            
+  justify-content: center;   
+  
 }
