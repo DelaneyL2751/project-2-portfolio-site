@@ -3,25 +3,41 @@ html {
     padding: 0px;
 }
 .home-page {
-    background-image: url(designassets/homebackground.jpg);
-    background-size: auto;
+ 
+}
+.about-page {
+    
 }
 nav {
     display: flex;
     justify-content: space-evenly;
     align-content: flex-start;
 }
+h1, h2 {
+    font-family: nerko-one, sans-serif;
+    font-style: normal;
+}
+p {
+    font-family: patrick-hand-sc, sans-serif;
+    font-style: normal;
+}
 header {
     background-color: #73472bD9;
+}
+.nav-links {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
 }
 footer {
     background-color: #5a8e3cD9;
     display: flex;
     justify-content: space-evenly;
+    color: rgb(255, 255, 255);
 }
 
 .homeimagesbox {
   display: flex;            
-  justify-content: center;   
+  justify-content: center;  
+  align-items: center; 
   
 }
