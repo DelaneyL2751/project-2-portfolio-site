@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-28499484-30b0-4f4f-b3a2-48c91afbf6db" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144">
+  <defs>
+    <style>
+      .uuid-2462dfec-9e60-4e49-b949-d424ac2df51f {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="uuid-a924751e-e37f-457e-8234-c782fb6f18a6" data-name="Generative Object (0, 0)">
+    <path class="uuid-2462dfec-9e60-4e49-b949-d424ac2df51f" d="M48.78,51.84h45.95c2.19,0,3.96,1.91,3.96,4.26v29.26c0,2.38-1.81,4.29-4.02,4.26l-45.95-.73c-1.08-.02-2.06-.5-2.76-1.27s-1.14-1.83-1.14-2.99v-28.53c0-2.35,1.77-4.26,3.96-4.26Z"/>
+  </g>
+  <polyline class="uuid-2462dfec-9e60-4e49-b949-d424ac2df51f" points="45.92 53.16 71.76 74.31 97.59 53.16"/>
+  <line class="uuid-2462dfec-9e60-4e49-b949-d424ac2df51f" x1="97" y1="88.85" x2="76.13" y2="70.73"/>
+  <line class="uuid-2462dfec-9e60-4e49-b949-d424ac2df51f" x1="45.96" y1="87.62" x2="67.38" y2="70.73"/>
+</svg>
