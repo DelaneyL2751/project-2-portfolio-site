@@ -29,12 +29,18 @@ html {
     flex: 1;
     gap: 5px;
     align-content: flex-end;
+    margin-left: 150px;
+    padding-left: 150px;
     
 }
 .aboutcolumnright {
     display: flex;
     flex: 2;
     align-content: flex-start;
+    margin-left: 50px;
+    padding-left: 50px;
+    margin-right: 150px;
+    padding-right: 150px;
     
 }
 nav {
