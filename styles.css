@@ -45,23 +45,6 @@ nav {
     padding: 0px;
 
 }
-h1, h2 {
-    font-family: nerko-one, sans-serif;
-    font-style: normal;
-    color: #583926;
-    display: flex;
-    align-content: center;
-    justify-content: center;
-}
-body {
-    margin: 0px;
-    padding: 0px;
-}
-p {
-    font-family: patrick-hand-sc, sans-serif;
-    font-style: normal;
-    color: #583926;
-}
 header {
     background-color: #73472bD9;
     position: fixed;
@@ -72,6 +55,43 @@ header {
 .nav-links {
     text-decoration: none;
     color: rgb(237, 226, 199);
+    font-size: 24px;
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    font-family: nerko-one, sans-serif;
+    font-style: normal;
+    color: #583926;
+    display: flex;
+    justify-content: center;
+    font-size: 48px;
+    
+}
+h2 {
+    font-family: nerko-one, sans-serif;
+    font-style: normal;
+    color: #583926;
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+    margin-top: 40px;
+    padding-top: 40px;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+p {
+    font-family: patrick-hand-sc, sans-serif;
+    font-style: normal;
+    color: #583926;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
 }
 main {
     padding-top: 60px;
@@ -99,7 +119,33 @@ footer {
   display: flex;            
   justify-content: center;  
   align-items: center; 
-  margin: 1%;
-  padding: 1%;
+  margin: 10px;
+  padding: 10px;
   
+}
+.projectonepage {
+    background-image: url('design assets/projectonebackground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.projecttwopage {
+    background-image: url('design assets/projecttwobackground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.projectthreepage {
+    background-image: url('design assets/projectthreebackground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}   
+.projectonefinal {
+    display: flex;
+    justify-content: center;
+}
+.projectonetext {
+    margin-left: 270px;
+    margin-right: 270px;
 }
