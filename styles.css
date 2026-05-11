@@ -4,13 +4,13 @@ html {
     overscroll-behavior: none;
 }
 .home-page {
-    background-image: url('design assets/homebackground.jpg');
+    background-image: url('design assets/homebackgroundgraphic.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 .about-page {
-    background-image: url('design\ assets/aboutbackground.jpg');
+    background-image: url('design\ assets/aboutbackground.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -130,19 +130,19 @@ footer {
     object-fit: contain;
 }
 .projectonepage {
-    background-image: url('design assets/projectonebackground.jpg');
+    background-image: url('design assets/projectonebackground.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 .projecttwopage {
-    background-image: url('design assets/projectwtobackground.jpg');
+    background-image: url('design assets/projecttwobackground.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 .projectthreepage {
-    background-image: url('design assets/projectthreebackground.jpg');
+    background-image: url('design assets/projectthreebackground.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
